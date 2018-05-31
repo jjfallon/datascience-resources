@@ -12,5 +12,6 @@ A list of data science resources.
 | Shiny | http://shiny.rstudio.com/tutorial/ | Learning for to use the Shiny package to create interactive dashboards |
 | Advanced R | http://adv-r.had.co.nz/ | Advanced guide to R, particularly good is the [style guide](http://adv-r.had.co.nz/Style.html)|
 | R packages | http://r-pkgs.had.co.nz/ | Guide to writing packages |
-| The reticulate package | https://rstudio.github.io/reticulate/ | Website of the reticulate package that allows you to use Python functions within R. For example, see [this blog](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/) where it is used to embed a Python model within a Shiny web app. (Similarily look at the [feather package](http://blog.rstudio.com/2016/03/29/feather/) for passing dataframes between R and python.) |
+| The reticulate package | https://rstudio.github.io/reticulate/ | Website of the reticulate package that allows you to use Python functions within R. For example, see [this blog](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/) where it is used to embed a Python model within a Shiny web app. (Similarily look at the [feather package](http://blog.rstudio.com/2016/03/29/feather/) for passing dataframes between R and Python.) |
 | R-bloggers | https://www.r-bloggers.com/tag/rblogs/ | Blogs about the use of R in analytics |
+| knitr in a knutshell | http://kbroman.org/knitr_knutshell/ | A short introduction to the knitr package for reproducible research |
