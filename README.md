@@ -1,10 +1,12 @@
 # Data Science Resources
 A list of data science resources.
 
-## Learning R
+## Language specific
 
-| Resource           | Link | Comments |
-| ------------------ | ----- | -------- |
+### Learning R
+
+| Resource       | Comments                   |
+| -------------- | -------------------------- |
 | [R for Data Science](http://r4ds.had.co.nz/) | Introduction to modern R programming using the [tidyverse](https://www.tidyverse.org/)|
 | [Text Mining with R](https://www.tidytextmining.com/) | Guide to a modern approach to text mining in R |
 | [The caret package](https://topepo.github.io/caret/index.html) | Guide to performing machine learning in R using the caret package |
@@ -17,7 +19,7 @@ A list of data science resources.
 | [knitr in a knutshell](http://kbroman.org/knitr_knutshell/) | A short introduction to the knitr package for reproducible research |
 
 
-## Learning D3
+### Learning D3
 
 | Resource       | Comments                   |
 | -------------- | -------------------------- |
@@ -30,15 +32,6 @@ A list of data science resources.
 | [Eloquent JavaScript](https://eloquentjavascript.net/) | Knowing a bit of JavaScript is a prerequisite for mastering D3 and this book is a good introduction | 
 | [A Tour Through the Visualization Zoo](https://homes.cs.washington.edu/~jheer/files/zoo/) | A good introduction to a wide range of visualisations you could do in D3 (though here they have been done in a precusor to D3) |
 | [dc.js](http://dc-js.github.io/dc.js/) | A library that combines D3 and crossfilter that makes it easier to create interactive dashboards |
-
-## Guides to aspects of machine learning
-
-
-| Resource       | Comments                   |
-| -------------- | -------------------------- |
-| [Feature Engineering and Selection](http://www.feat.engineering/index.html) | Guide to feature engineering and model selection |
-| [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/) | A guide to combining models to approve performance |
-| [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) | The classic text on machine learning |
 
 
 ## Python resources
@@ -54,3 +47,38 @@ A list of data science resources.
 | [Seven Strategies for Optimizing Numerical Code](https://speakerdeck.com/jakevdp/seven-strategies-for-optimizing-numerical-code) | Slides on different approaches to speeding up Python code |
 | [Comparing Python Clustering Algorithms](http://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html) | Does what it says on the tin! |
 | [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) | This is PEP 8, the official style guide for Python. One incentive to following its guidance is that your code will better integrate with IDEs |
+
+
+## Technique specific
+
+
+### Guides to aspects of machine learning
+
+| Resource       | Comments                   |
+| -------------- | -------------------------- |
+| [Feature Engineering and Selection](http://www.feat.engineering/index.html) | Guide to feature engineering and model selection |
+| [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/) | A guide to combining models to approve performance |
+| [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) | The classic text on machine learning |
+
+
+### Neural Networks
+
+| Resource       | Comments                   |
+| -------------- | -------------------------- |
+| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | Simple introduction to neural networks |
+| [Convolutional Neural Networks for Visual Recognition](github) | Stanford course on convolutional neural networks |
+| [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) | Article explaining CNNs in the context of NLP |
+| [On word embeddings](http://ruder.io/word-embeddings-1/) | Introduction to word embeddings |
+|[fast.ai](http://www.fast.ai/) | Online AI course |
+
+
+## Other
+
+| Resource       | Comments                   |
+| -------------- | -------------------------- |
+| [Data Science Weekly](https://www.datascienceweekly.org/) | Weekly data science newsletter that aggregates articles on data science |
+| [Why Use Make](https://bost.ocks.org/mike/make/) | Thoughts from Mike Bostock on using make for reproducible research |
+| [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) | Leo Breiman's article on the difference between statistical models and algorithmic models |
+
+
+
