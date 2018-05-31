@@ -34,7 +34,7 @@ A list of data science resources.
 | [dc.js](http://dc-js.github.io/dc.js/) | A library that combines D3 and crossfilter that makes it easier to create interactive dashboards |
 
 
-## Python resources
+### Python resources
 
 | Resource       | Comments                   |
 | -------------- | -------------------------- |
