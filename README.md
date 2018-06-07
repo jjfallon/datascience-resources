@@ -26,6 +26,7 @@ A list of data science resources.
 | [bl.ocks](https://bl.ocks.org/) | Website showing popular D3 examples |
 | [Observable](https://beta.observablehq.com/?utm_source=blocks) | A notebook approach to written D3 and javascript |
 | [Search the Bl.ocks](http://blockbuilder.org/search) | Search D3 examples produced my others (great for inspiration!) |
+| [D3 Tips and Tricks](https://leanpub.com/d3-t-and-t-v4/read) | A good book about D3 |
 | [D3 in Depth](http://d3indepth.com/) | A good introduction to writing D3 |
 | [D3 tutorial list](https://github.com/d3/d3/wiki/Tutorials/) | A list of D3 tutorials from the D3 website |
 | [A better way to structure D3 code](http://ejb.github.io/2017/08/09/a-better-way-to-structure-d3-code-es6-version.html) | Interesting blog post on how to strucutre D3 code|
