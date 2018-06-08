@@ -77,6 +77,7 @@ A list of data science resources.
 
 | Resource       | Comments                   |
 | -------------- | -------------------------- |
+| [Towards Data Science](https://towardsdatascience.com/) | Interesting articles about data science |
 | [Data Science Weekly](https://www.datascienceweekly.org/) | Weekly data science newsletter that aggregates articles on data science |
 | [Why Use Make](https://bost.ocks.org/mike/make/) | Thoughts from Mike Bostock on using make for reproducible research |
 | [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) | Leo Breiman's article on the difference between statistical models and algorithmic models |
